@@ -1,1 +1,1 @@
-# Jupyter
+print('Hello world from Jupyter notebooks')
